@@ -155,8 +155,8 @@
 
 	.part2 img {
 		border-radius: 50%;
-		height: 350px;
-		width: 350px;
+		height: 300px;
+		width: 300px;
 		margin-left: 80px;
 		margin-bottom: 20px;
 
@@ -310,7 +310,7 @@
 @media (max-width: 1000px) {
 	.part6 {
 		flex-direction: column;
-		max-height: 700px;
+		max-height: 800px;
 	}
 
 	.part6 img {
